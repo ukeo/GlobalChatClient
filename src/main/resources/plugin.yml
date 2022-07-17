@@ -1,0 +1,8 @@
+name: GlobalChat
+version: '${project.version}'
+main: eu.imposdev.globalchat.GlobalChat
+api-version: 1.19
+prefix: ChatClient
+authors: [ Espen ]
+description: GlobalChat Client for Spigot
+website: https://veranity.net
